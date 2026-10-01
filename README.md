@@ -41,4 +41,4 @@
 
 ### Me and Git...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&bg_color=2e3440&color=d8dee9&line=88c0d0&point=eceff4&area=true&area_color=88c0d0&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&theme=cotton-candy&hide_border=true)
