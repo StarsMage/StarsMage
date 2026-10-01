@@ -46,3 +46,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
+
+[![StarsMage's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
