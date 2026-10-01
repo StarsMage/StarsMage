@@ -40,7 +40,9 @@
 - **Containerization**: deploy with **Docker**.
 
 ### Me and Git...
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=radical" alt="StarsMage Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord" alt="StarsMage stat" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
