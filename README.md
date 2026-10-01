@@ -1,10 +1,12 @@
 ```
- ▄▀▀▀▄ █▀▀▄▀▀█ ▀█▀▀▄  ▀█▀▀▄   ▄▀▀▀▄ ▀█▄   █▄ ▀█▀▀▄   ▄▀▀▀▄  ▄▀█▀▀▀▀
-█         █     █   █  █   █ █       █ █ █ █  █   █ █         █    
- ▀▀▄▄     █    ▀█▀▀▀█ ▀█▀█▀   ▀▀▄▄   █  █  █ ▀█▀▀▀█ █   ▄▄▀  ▄█▄▄  
-     █    █     █   █  █  ▀▄      █  █     █  █   █ █  ▀ █  ▀ █    
-▀▄▄▄▄▀   ▄█▄   ▄▀  ▄▀ ▀    ▀ ▀▄▄▄▄▀ ▄▀    ▄▀ ▄▀  ▄▀ ▀▄▄▄▄▀   ▄▀▄▄▄▄
+  _________ __                         _____                         
+ /   _____//  |______ _______  ______ /     \ _____     ____   ____  
+ \_____  \\   __\__  \\_  __ \/  ___//  \ /  \\__  \   / ___\_/ __ \ 
+ /        \|  |  / __ \|  | \/\___ \/    Y    \/ __ \_/ /_/  >  ___/ 
+/_______  /|__| (____  /__|  /____  >____|__  (____  /\___  / \___  >
+        \/           \/           \/        \/     \//_____/      \/ 
     SΓÆRSMÆ6Σ
+         愛とコード
 ```
 
 ### 📕 Currently working with
@@ -39,3 +41,4 @@
 
 ### Me and Git...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&theme=nord&bg_color=13141f&color=f8f8f2&line=ff79c6&point=bd93f9)
