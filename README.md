@@ -8,7 +8,7 @@
 ```
 
 ### 📕 Currently working with
-- **Go*: Backend applications, Wails desktop apps.
+- **Go**: Backend applications, Wails desktop apps.
 - **Python**: Request,FastApi,aoigram.
 - **Bash**: linux mage,scripts.
 
@@ -23,7 +23,7 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/golang.svg" alt="Go" style="margin:4px">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" style="margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash" style="margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="Docker" style="margin:4px">
