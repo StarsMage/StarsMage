@@ -41,4 +41,6 @@
 
 ### Me and Git...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&theme=cotton-candy&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=radical" alt="StarsMage Streak" />
+</p>
