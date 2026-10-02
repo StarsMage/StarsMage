@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StarsMage/StarsMage/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&theme=nord" alt="StarsMage Activity Graph" />
 </p>
