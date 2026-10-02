@@ -59,13 +59,9 @@
 
 ### Me and Git...
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord" alt="StarsMage stat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=catppuccin" alt="StarsMage stat" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StarsMage&theme=nord&no-frame=true&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=catppuccin" alt="StarsMage Streak" />
 </p>
