@@ -52,6 +52,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord" alt="StarsMage stat" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StarsMage/StarsMage/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
