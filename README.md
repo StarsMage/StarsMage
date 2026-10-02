@@ -56,5 +56,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&bg_color=1f1926&color=ff79c6&line=ff79c6&point=ffb86c&area=true&area_color=ff79c6" alt="StarsMage Activity Graph" />
+  <img src="https://github-readme-activity-graph.graphengine.com/graph?username=StarsMage&bg_color=0d1117&color=ff69b4&line=ff1493&point=ff69b4&area=true&area_color=ffb6c1&hide_border=true" alt="StarsMage Activity Graph" />
 </p>
