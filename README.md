@@ -55,10 +55,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Thought-of_the_day-ff79c6?style=for-the-badge&logoColor=white" />
-  <br/><br/>
-  <i>«Make it work, make it right, make it fast.»</i>
-  <br/>
-  <b>— Kent Beck</b>
-</p>
+![Snake animation](https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg)
