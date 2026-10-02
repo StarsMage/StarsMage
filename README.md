@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&theme=nord" alt="StarsMage Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord&hide_border=true" alt="StarsMage Stats" />
 </p>
