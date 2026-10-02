@@ -31,7 +31,7 @@
 ### 🗻 My tech plan...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bsd,plan9,c++,asm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bsd,plan9,cpp,c,powershell&theme=dark" />
   </a>
 </p>
 
