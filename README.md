@@ -15,8 +15,7 @@
 - **Bash**: linux mage,scripts.
 
 ### 💗 Interests
-- Fullstack Web Development & Telegram Bots.
-- Web3.
+  My interests: hardware,reverse-eng and more....
 
 ### 🔍 Find me
 - 🐦 [StarsMage](https://github.com/StarsMage)
