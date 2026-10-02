@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=nord&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30" alt="Header Banner" />
+  <img src="https://github-profile-trophy.vercel.app/?username=StarsMage&theme=nord" alt="GitHub Trophies" />
 </p>
