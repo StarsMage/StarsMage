@@ -33,7 +33,7 @@
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Favorite_Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 <p>align="center">  <img src="https://img.shields.io/badge/Favorite_Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></p>
