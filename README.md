@@ -21,22 +21,10 @@
 ### 🔍 Find me
 - 🐦 [StarsMage](https://github.com/StarsMage)
 
-### 🤔 I know...
-
-<p align="center">
-
- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="Go" style="margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash" style="margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="Docker" style="margin:4px">
-  <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="Security" style="margin:4px">
-
-</p>
-
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,docker,linux,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,py,bash,docker,linux,fastapi,security&theme=dark" />
   </a>
 </p>
 
