@@ -32,8 +32,6 @@
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="Security" style="margin:4px">
 
 </p>
-  and....
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
 </p>
