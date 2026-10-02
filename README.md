@@ -56,5 +56,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.graphengine.com/graph?username=StarsMage&bg_color=0d1117&color=ff69b4&line=ff1493&point=ff69b4&area=true&area_color=ffb6c1&hide_border=true" alt="StarsMage Activity Graph" />
+  <kbd>🌸 <b>Quote of the Day</b> 🌸</kbd>
+  <br/><br/>
+  <i>«First, solve the problem. Then, write the code.»</i>
+  <br/>
+  <sub>— <b>John Johnson</b></sub>
 </p>
