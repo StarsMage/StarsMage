@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=nord&hide_border=true" alt="StarsMage Stats" />
+  <img src="https://metabolize.github.io/github-readme-stats/api?username=StarsMage&show_icons=true&theme=nord" alt="StarsMage Stats" />
 </p>
