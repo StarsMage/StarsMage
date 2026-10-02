@@ -18,7 +18,7 @@
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,docker,linux,fastapi,obsidian,raspberrypi,windows,flask&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,py,bash,docker,linux,fastapi,obsidian,raspberrypi,windows,flask,git&theme=dark" />
   </a>
 </p>
 
