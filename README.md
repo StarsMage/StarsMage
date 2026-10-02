@@ -32,6 +32,11 @@
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="Security" style="margin:4px">
 
 </p>
+  and....
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
+</p>
 
 ### 🚀 Development Focus
 - **Telegram Bots**: creatind TG bots.
@@ -45,7 +50,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
 </p>
