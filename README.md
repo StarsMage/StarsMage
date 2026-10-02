@@ -47,4 +47,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
 
-[![StarsMage github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarsMage&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![StarsMage GitHub stats](https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
