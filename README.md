@@ -65,7 +65,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
-
-<p align="center">
-  <img src="https://metabolize.github.io/github-readme-stats/api?username=StarsMage&show_icons=true&theme=nord" alt="StarsMage Stats" />
-</p>
