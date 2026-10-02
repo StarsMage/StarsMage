@@ -1,17 +1,7 @@
 <p align="center">
-  <img src="./banner.jpg" alt="WELCOME" width="100%" />
+  <img src="./banner.jpg" alt="WELCOME" width="80%" />
 </p>
 
-```
-  _________ __                         _____                         
- /   _____//  |______ _______  ______ /     \ _____     ____   ____  
- \_____  \\   __\__  \\_  __ \/  ___//  \ /  \\__  \   / ___\_/ __ \ 
- /        \|  |  / __ \|  | \/\___ \/    Y    \/ __ \_/ /_/  >  ___/ 
-/_______  /|__| (____  /__|  /____  >____|__  (____  /\___  / \___  >
-        \/           \/           \/        \/     \//_____/      \/ 
-    SΓÆRSMÆ6Σ
-         愛とコード
-```
 
 ### 📕 Currently working with
 - **Go**: Backend applications, Wails desktop apps.
