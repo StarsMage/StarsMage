@@ -47,5 +47,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
 </p>
