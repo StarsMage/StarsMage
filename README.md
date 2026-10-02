@@ -32,12 +32,10 @@
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/svg/dev/misc/security.svg" alt="Security" style="margin:4px">
 
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Favorite_Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+
+### I love💗
 
 <p align="center">
-  <sub><b>My Main Language</b></sub><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go&theme=dark" width="60" />
   </a>
