@@ -56,9 +56,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
 <p align="center">
-  <kbd>🌸 <b>Quote of the Day</b> 🌸</kbd>
+  <img src="https://img.shields.io/badge/Thought-of_the_day-ff79c6?style=for-the-badge&logoColor=white" />
   <br/><br/>
-  <i>«First, solve the problem. Then, write the code.»</i>
+  <i>«Make it work, make it right, make it fast.»</i>
   <br/>
-  <sub>— <b>John Johnson</b></sub>
+  <b>— Kent Beck</b>
 </p>
