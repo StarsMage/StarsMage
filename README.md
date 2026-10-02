@@ -55,4 +55,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
-![Snake animation](https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg)
