@@ -36,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
 </p>
 
+ align="center">  <img src="https://img.shields.io/badge/Favorite_Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></p>
+
 ### 🚀 Development Focus
 - **Telegram Bots**: creatind TG bots.
 - **Web Applications & Websites**: developing a web-site with fastapi/Go.
