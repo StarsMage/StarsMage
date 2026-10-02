@@ -12,7 +12,8 @@
   My interests: hardware,reverse-eng and more....
 
 ### 🔍 Find me
-- 🐦 [StarsMage](https://github.com/StarsMage)
+- 🐦 **GitHub**: [StarsMage](https://github.com/StarsMage)
+- 💬 **Telegram**: [@workerloveroker](https://t.me/workerloveroker)
 
 ### 🛠 Tech Stack
 <p align="center">
