@@ -4,12 +4,12 @@
 
 
 ### 📕 Currently working with
-- **Go**: Backend applications, Wails desktop apps.
-- **Python**: Request,FastApi,aoigram.
-- **Bash**: linux mage,scripts.
+- **Go**: Backend applications, Wails desktop apps, scripts, Web, etc.
+- **Python**: Request, FastApi, aoigram, scripts, Web, etc.
+- **Bash**: Scripts, base commands, etc.
 
 ### 💗 Interests
-  My interests: hardware,reverse-eng and more....
+  My interests: hardware,reverse-eng, learning PL and more....
 
 ### 🔍 Find me
 - 🐦 **GitHub**: [StarsMage](https://github.com/StarsMage)
@@ -46,10 +46,10 @@
 
 
 ### 🚀 Development Focus
-- **Telegram Bots**: creatind TG bots.
-- **Web Applications & Websites**: developing a web-site with fastapi/Go.
-- **Backend & Wails**: create app with Wails.
-- **Containerization**: deploy with **Docker**.
+- **Telegram Bots**: Creating TG bots.
+- **Web Applications & Websites**: Developing a web-site with fastapi/Go.
+- **Backend & Wails**: Creating appllication on base Golang with help Wails.
+- **Containerization**: deploy with **Docker**🐋.
 
 ### Me and Git...
 <p align="center">
