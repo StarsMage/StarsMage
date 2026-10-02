@@ -46,5 +46,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=nord" alt="StarsMage Streak" />
 </p>
-
-[![StarsMage GitHub stats](https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=StarsMage&layout=compact&theme=nord" alt="Top Languages" />
+</p>
