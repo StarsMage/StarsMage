@@ -55,4 +55,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StarsMage&show_icons=true&theme=buefy" alt="StarsMage stat" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarsMage&theme=buefy" alt="StarsMage Streak" />
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
