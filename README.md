@@ -25,14 +25,14 @@
 ### 🗻 My tech plan...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bsd,plan9,cpp,c,powershell,ruby&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bsd,plan9,cpp,c,powershell,ruby,rust&theme=dark" />
   </a>
 </p>
 
 ### 💻 I use...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,neovide&theme=dark" />
   </a>
 </p>
 
