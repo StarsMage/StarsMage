@@ -9,11 +9,10 @@
 - **Bash**: Scripts, base commands, etc.
 
 ### 💗 Interests
-  My interests: hardware,reverse-eng, learning PL and more....
+  My interests: hardware,reverse-eng, learning PL and golang develope
 
 ### 🔍 Find me
 - 🐦 **GitHub**: [StarsMage](https://github.com/StarsMage)
-- 💬 **Telegram**: [@workerloveroker](https://t.me/workerloveroker)
 
 ### 🛠 Tech Stack
 <p align="center">
