@@ -3,16 +3,17 @@
 </p>
 
 
-### 📕 Currently working with
+### Currently working with
 - **Go**: Backend applications, Wails desktop apps, scripts, Web, etc.
 - **Python**: Request, FastApi, aoigram, scripts, Web, etc.
 - **Bash**: Scripts, base commands, etc.
 
-### 💗 Interests
+### Interests
   My interests: hardware,reverse-eng, learning PL and golang develope
 
-### 🔍 Find me
-- 🐦 **GitHub**: [StarsMage](https://github.com/StarsMage)
+###  Find me
+-  **GitHub**: [StarsMage](https://github.com/StarsMage)
+-  **Codewars**: [StarsMage](https://www.codewars.com/users/StarsMage)
 
 ### 🛠 Tech Stack
 <p align="center">
@@ -21,21 +22,21 @@
   </a>
 </p>
 
-### 🗻 My tech plan...
+### My tech plan...
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bsd,plan9,cpp,c,powershell,ruby,rust&theme=dark" />
   </a>
 </p>
 
-### 💻 I use...
+### I use...
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim&theme=dark" />
   </a>
 </p>
 
-### I love💗
+### I like
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +45,7 @@
 </p>
 
 
-### 🚀 Development Focus
+###  Development Focus
 - **Telegram Bots**: Creating TG bots.
 - **Web Applications & Websites**: Developing a web-site with fastapi/Go.
 - **Backend & Wails**: Creating appllication on base Golang with help Wails.
