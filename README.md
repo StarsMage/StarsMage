@@ -18,7 +18,7 @@
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,docker,linux,fastapi,obsidian,raspberrypi,windows,flask,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,py,bash,docker,linux,fastapi,obsidian,raspberrypi,windows,flask,git,sql&theme=dark" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 ### I use...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zed,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscodium,vim&theme=dark" />
   </a>
 </p>
 
