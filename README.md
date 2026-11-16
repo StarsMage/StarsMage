@@ -32,7 +32,7 @@
 ### I use...
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=zed,vim&theme=dark" />
   </a>
 </p>
 
